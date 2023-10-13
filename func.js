@@ -56,6 +56,10 @@ else if(user == "Tanzim"){
     document.getElementById("my").innerHTML = "online friend";
 }
 
+    else if(user == "Tanjim" || user == "Tangim"){
+    document.getElementById("my").innerHTML = "online friend";
+}
+
 else if(user == "Niloy"){
     document.getElementById("my").innerHTML = "bench mate";
 }
