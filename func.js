@@ -25,7 +25,7 @@ else if(user == "" || user == null){
 }
 
 else if(user == "Israt" || user == "Ema" || user == "Ima" || user == "Eichi" || user == "Arisa" ){
-    document.getElementById("my").innerHTML = "FUCK YOU BITCH";
+    document.getElementById("my").innerHTML = "I miss u..iam sorry for everything. If i could get another chance i promise i would be a lot better. and i still love u catto";
 }
 
 else if(user == "Kabbo"){
